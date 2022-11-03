@@ -33,3 +33,25 @@ Skeleton setup for devops hiring question
         # run
         cd app
         ./scripts/run.sh
+        
+Output:
+        Cloning into 'devops-question'...
+        remote: Enumerating objects: 29, done.
+        remote: Counting objects: 100% (29/29), done.
+        remote: Compressing objects: 100% (19/19), done.
+        remote: Total 29 (delta 9), reused 23 (delta 5), pack-reused 0
+        Receiving objects: 100% (29/29), done.
+        Resolving deltas: 100% (9/9), done.
+        Code loops to 1000 and prints numbers divisible by 7 and 11
+        77
+        154
+        231
+        308
+        385
+        462
+        539
+        616
+        693
+        770
+        847
+        924
