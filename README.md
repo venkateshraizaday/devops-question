@@ -1,9 +1,14 @@
 # devops-question
 Skeleton setup for devops hiring question
 
-<h5>The Question: Write a script that does the following</h5>
-- Checkout code from https://github.com/venkateshraizaday/devops-question.git
-- Build code via script/ci.sh command.
-- Copy contents from build folder to remote jenkins@192.168.12.2/app (Assume connectivity/permissions are already setup)
-- Change app folder ownership (Hint use chown -R 755 app)
-- Run app via app/scripts/run.sh
+### The Question
+#### Write a script that does the following
+* Checkout code from https://github.com/venkateshraizaday/devops-question.git
+* Build code via script/ci.sh command.
+* Copy contents from build folder to remote server
+* Change app folder ownership
+* Run app via app/scripts/run.sh
+
+### Interviewer notes (Not to be shared with interviewee until needed)
+* Use chown 755 for permission modification.
+* Heroku VM can be used for providing remote server.
