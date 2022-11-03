@@ -34,7 +34,9 @@ Skeleton setup for devops hiring question
         cd app
         ./scripts/run.sh
         
-Output:
+### Output:
+        
+        
         Cloning into 'devops-question'...
         remote: Enumerating objects: 29, done.
         remote: Counting objects: 100% (29/29), done.
