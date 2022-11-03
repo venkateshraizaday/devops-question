@@ -14,6 +14,8 @@ Skeleton setup for devops hiring question
 * Bash tip: `scp` is a standard command to copy files across servers.
 * Bash tip: Use `chown 755` for permission modification.
 * Bash Solution:
+        
+        
         # clone
         git clone https://github.com/venkateshraizaday/devops-question.git
 
