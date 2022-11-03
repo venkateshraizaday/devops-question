@@ -1,1 +1,1 @@
-python3 build/codestub.py
+python3 codestub.py
